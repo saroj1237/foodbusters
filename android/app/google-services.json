@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762174706589",
+    "project_id": "foodbuster-8e5f0",
+    "storage_bucket": "foodbuster-8e5f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762174706589:android:e5a2f36cc4a19a1bf9d574",
+        "android_client_info": {
+          "package_name": "com.eydean.foodbusters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762174706589-0kdr1ftqssdrms5k748v1k2oamtmnscu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe569z9ntoq3LvzduqsRpcXlRx0CscOPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762174706589-0kdr1ftqssdrms5k748v1k2oamtmnscu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
